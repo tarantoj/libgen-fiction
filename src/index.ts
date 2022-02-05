@@ -1,5 +1,3 @@
-import { search } from "./lib/search"
+import { search } from "./lib/search";
 
-
-search({q: "the martian"})
-
+export { search };

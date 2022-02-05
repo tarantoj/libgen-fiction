@@ -1,0 +1,856 @@
+[
+    {
+        "id": 1,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Weinbaum%2C%20Stanley%20G&criteria=authors&language=English",
+                "text": "Weinbaum, Stanley G"
+            },
+            {
+                "href": "/fiction/?q=Moskowitz%2C%20Sam&criteria=authors&language=English",
+                "text": "Moskowitz, Sam"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/E507C7A27530F9A1097DAF616FBFBAE7",
+            "text": "A Martian Odyssey and Other Science Fiction Tales: The Collected Short Stories of Stanley G. Weinbaum"
+        },
+        "language": "English",
+        "file": "EPUB / 701 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/E507C7A27530F9A1097DAF616FBFBAE7",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=E507C7A27530F9A1097DAF616FBFBAE7",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/E507C7A27530F9A1097DAF616FBFBAE7",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/E507C7A27530F9A1097DAF616FBFBAE7",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 2,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Dick%2C%20Philip%20K&criteria=authors&language=English",
+                "text": "Dick, Philip K"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/D39BB4A69E190D9A5D0DAFAF2648E79E",
+            "text": "Five great novels. The three stigmata of Palmer Eldritch. Martian time-slip. Do Androids dream of electric sheep?. Ubik. A scanner darkly"
+        },
+        "language": "English",
+        "file": "EPUB / 265 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/D39BB4A69E190D9A5D0DAFAF2648E79E",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=D39BB4A69E190D9A5D0DAFAF2648E79E",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/D39BB4A69E190D9A5D0DAFAF2648E79E",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/D39BB4A69E190D9A5D0DAFAF2648E79E",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 3,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Dick%2C%20Philip%20K&criteria=authors&language=English",
+                "text": "Dick, Philip K"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/BA7A2F31E091BBF37D79BB6D613FB553",
+            "text": "Five great novels. The three stigmata of Palmer Eldritch. Martian time-slip. Do Androids dream of electric sheep?. Ubik. A scanner darkly"
+        },
+        "language": "English",
+        "file": "EPUB / 242 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/BA7A2F31E091BBF37D79BB6D613FB553",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=BA7A2F31E091BBF37D79BB6D613FB553",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/BA7A2F31E091BBF37D79BB6D613FB553",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/BA7A2F31E091BBF37D79BB6D613FB553",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 4,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Dick%2C%20Philip%20K&criteria=authors&language=English",
+                "text": "Dick, Philip K"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/F6B19D7147297CF70D32B553BD1C63B2",
+            "text": "Five great novels. The three stigmata of Palmer Eldritch. Martian time-slip. Do Androids dream of electric sheep?. Ubik. A scanner darkly"
+        },
+        "language": "English",
+        "file": "EPUB / 241 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/F6B19D7147297CF70D32B553BD1C63B2",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=F6B19D7147297CF70D32B553BD1C63B2",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/F6B19D7147297CF70D32B553BD1C63B2",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/F6B19D7147297CF70D32B553BD1C63B2",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 5,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Farook%2C%20Fahim&criteria=authors&language=English",
+                "text": "Farook, Fahim"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/B3C293BC8C64950DE8567F2CA856EF13",
+            "text": "Honest, The Martian Ate Your Dog"
+        },
+        "language": "English",
+        "file": "EPUB / 322 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/B3C293BC8C64950DE8567F2CA856EF13",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=B3C293BC8C64950DE8567F2CA856EF13",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/B3C293BC8C64950DE8567F2CA856EF13",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/B3C293BC8C64950DE8567F2CA856EF13",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 6,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Farook%2C%20Fahim&criteria=authors&language=English",
+                "text": "Farook, Fahim"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/94BCC355CAC1618F52E3D9B9BCD0E0DC",
+            "text": "Honest, the Martian Ate Your Dog"
+        },
+        "language": "English",
+        "file": "EPUB / 322 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/94BCC355CAC1618F52E3D9B9BCD0E0DC",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=94BCC355CAC1618F52E3D9B9BCD0E0DC",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/94BCC355CAC1618F52E3D9B9BCD0E0DC",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/94BCC355CAC1618F52E3D9B9BCD0E0DC",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 7,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Barnes%2C%20John&criteria=authors&language=English",
+                "text": "Barnes, John"
+            }
+        ],
+        "series": "Jak Jinnaka 3",
+        "title": {
+            "href": "/fiction/4E807605A54580473878EF80F23309D9",
+            "text": "In the Hall of the Martian King"
+        },
+        "language": "English",
+        "file": "EPUB / 625 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/4E807605A54580473878EF80F23309D9",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=4E807605A54580473878EF80F23309D9",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/4E807605A54580473878EF80F23309D9",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/4E807605A54580473878EF80F23309D9",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 8,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=James%20David%20Victor&criteria=authors&language=English",
+                "text": "James David Victor"
+            }
+        ],
+        "series": "Outcast Marine 1-9",
+        "title": {
+            "href": "/fiction/26DF26F9C3F3834984AB69803E0D6AE0",
+            "text": "Outcast Marines Boxed Set - Outcasts of Earth, The Kepler Escape, The Titan Gambit, The Martian Incursion, Invasion Proxima, Invasion Pluto, Alien Legacy, Command Code, Conquest of Earth"
+        },
+        "language": "English",
+        "file": "EPUB / 2.53 Mb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/26DF26F9C3F3834984AB69803E0D6AE0",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=26DF26F9C3F3834984AB69803E0D6AE0",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/26DF26F9C3F3834984AB69803E0D6AE0",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/26DF26F9C3F3834984AB69803E0D6AE0",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 9,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Brackett%2C%20Leigh&criteria=authors&language=English",
+                "text": "Brackett, Leigh"
+            }
+        ],
+        "series": "Eric John Stark",
+        "title": {
+            "href": "/fiction/4B1A34CA62318535E08650EFD598103C",
+            "text": "Queen Of the Martian Catacombs"
+        },
+        "language": "English",
+        "file": "EPUB / 115 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/4B1A34CA62318535E08650EFD598103C",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=4B1A34CA62318535E08650EFD598103C",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/4B1A34CA62318535E08650EFD598103C",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/4B1A34CA62318535E08650EFD598103C",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 10,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Brackett%2C%20Leigh&criteria=authors&language=English",
+                "text": "Brackett, Leigh"
+            }
+        ],
+        "series": "Eric John Stark",
+        "title": {
+            "href": "/fiction/C119FDE5537AF4E08D33F40CD69F9006",
+            "text": "Queen Of the Martian Catacombs"
+        },
+        "language": "English",
+        "file": "EPUB / 114 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/C119FDE5537AF4E08D33F40CD69F9006",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=C119FDE5537AF4E08D33F40CD69F9006",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/C119FDE5537AF4E08D33F40CD69F9006",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/C119FDE5537AF4E08D33F40CD69F9006",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 11,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Mayne%2C%20Andrew&criteria=authors&language=English",
+                "text": "Mayne, Andrew"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/BF0946469C51178A1A1BDA5CE6EB0527",
+            "text": "The Chronological Man: The Monster in the Mist & The Martian Emperor"
+        },
+        "language": "English",
+        "file": "EPUB / 851 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/BF0946469C51178A1A1BDA5CE6EB0527",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=BF0946469C51178A1A1BDA5CE6EB0527",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/BF0946469C51178A1A1BDA5CE6EB0527",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/BF0946469C51178A1A1BDA5CE6EB0527",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 12,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Washburn%2C%20Scott&criteria=authors&language=English",
+                "text": "Washburn, Scott"
+            }
+        ],
+        "series": "Great Martian War 1",
+        "title": {
+            "href": "/fiction/F26124991D13BBD4691C296765D87B83",
+            "text": "The Great Martian War: Invasion"
+        },
+        "language": "English",
+        "file": "EPUB / 1.08 Mb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/F26124991D13BBD4691C296765D87B83",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=F26124991D13BBD4691C296765D87B83",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/F26124991D13BBD4691C296765D87B83",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/F26124991D13BBD4691C296765D87B83",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 13,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Weir%2C%20Andy&criteria=authors&language=English",
+                "text": "Weir, Andy"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/37577B71D137FF585BCE010A8927A7FD",
+            "text": "The Martian"
+        },
+        "language": "English",
+        "file": "EPUB / 341 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/37577B71D137FF585BCE010A8927A7FD",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=37577B71D137FF585BCE010A8927A7FD",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/37577B71D137FF585BCE010A8927A7FD",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/37577B71D137FF585BCE010A8927A7FD",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 14,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Weir%2C%20Andy&criteria=authors&language=English",
+                "text": "Weir, Andy"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/E92DF8777BFE6D79D7FA2B26C6741233",
+            "text": "The Martian"
+        },
+        "language": "English",
+        "file": "EPUB / 5.64 Mb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/E92DF8777BFE6D79D7FA2B26C6741233",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=E92DF8777BFE6D79D7FA2B26C6741233",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/E92DF8777BFE6D79D7FA2B26C6741233",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/E92DF8777BFE6D79D7FA2B26C6741233",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 15,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Weir%2C%20Andy&criteria=authors&language=English",
+                "text": "Weir, Andy"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/AA442A9FD2437E19664C8A3BA3AB896C",
+            "text": "The Martian"
+        },
+        "language": "English",
+        "file": "EPUB / 329 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/AA442A9FD2437E19664C8A3BA3AB896C",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=AA442A9FD2437E19664C8A3BA3AB896C",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/AA442A9FD2437E19664C8A3BA3AB896C",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/AA442A9FD2437E19664C8A3BA3AB896C",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 16,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Weir%2C%20Andy&criteria=authors&language=English",
+                "text": "Weir, Andy"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/91C90D246FE603617607CFF8DA14A927",
+            "text": "The Martian"
+        },
+        "language": "English",
+        "file": "EPUB / 5.64 Mb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/91C90D246FE603617607CFF8DA14A927",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=91C90D246FE603617607CFF8DA14A927",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/91C90D246FE603617607CFF8DA14A927",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/91C90D246FE603617607CFF8DA14A927",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 17,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Weir%2C%20Andy&criteria=authors&language=English",
+                "text": "Weir, Andy"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/1553E9575AD390169C7E9C24C3CBE5E7",
+            "text": "The Martian"
+        },
+        "language": "English",
+        "file": "EPUB / 344 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/1553E9575AD390169C7E9C24C3CBE5E7",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=1553E9575AD390169C7E9C24C3CBE5E7",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/1553E9575AD390169C7E9C24C3CBE5E7",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/1553E9575AD390169C7E9C24C3CBE5E7",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 18,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Weir%2C%20Andy&criteria=authors&language=English",
+                "text": "Weir, Andy"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/D37962F7BBF0901765AC90A7AB0DAE0D",
+            "text": "The Martian"
+        },
+        "language": "English",
+        "file": "EPUB / 2.08 Mb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/D37962F7BBF0901765AC90A7AB0DAE0D",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=D37962F7BBF0901765AC90A7AB0DAE0D",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/D37962F7BBF0901765AC90A7AB0DAE0D",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/D37962F7BBF0901765AC90A7AB0DAE0D",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 19,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Weir%2C%20Andy&criteria=authors&language=English",
+                "text": "Weir, Andy"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/7E6C2E916A6C55619E72BA27AB9E81B9",
+            "text": "The Martian"
+        },
+        "language": "English",
+        "file": "EPUB / 1.79 Mb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/7E6C2E916A6C55619E72BA27AB9E81B9",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=7E6C2E916A6C55619E72BA27AB9E81B9",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/7E6C2E916A6C55619E72BA27AB9E81B9",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/7E6C2E916A6C55619E72BA27AB9E81B9",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 20,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Weir%2C%20Andy&criteria=authors&language=English",
+                "text": "Weir, Andy"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/3511C168BA227BBF38234ACB4CC3F22E",
+            "text": "The Martian"
+        },
+        "language": "English",
+        "file": "EPUB / 1.62 Mb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/3511C168BA227BBF38234ACB4CC3F22E",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=3511C168BA227BBF38234ACB4CC3F22E",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/3511C168BA227BBF38234ACB4CC3F22E",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/3511C168BA227BBF38234ACB4CC3F22E",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 21,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Weir%2C%20Andy&criteria=authors&language=English",
+                "text": "Weir, Andy"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/1E92045DD8F4A7BDD3002655C146AB9D",
+            "text": "The Martian"
+        },
+        "language": "English",
+        "file": "EPUB / 466 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/1E92045DD8F4A7BDD3002655C146AB9D",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=1E92045DD8F4A7BDD3002655C146AB9D",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/1E92045DD8F4A7BDD3002655C146AB9D",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/1E92045DD8F4A7BDD3002655C146AB9D",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 22,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Weir%2C%20Andy&criteria=authors&language=English",
+                "text": "Weir, Andy"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/A2EE8FC5AB8DCE88BF0ACDB830CAB5C4",
+            "text": "The Martian"
+        },
+        "language": "English",
+        "file": "EPUB / 714 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/A2EE8FC5AB8DCE88BF0ACDB830CAB5C4",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=A2EE8FC5AB8DCE88BF0ACDB830CAB5C4",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/A2EE8FC5AB8DCE88BF0ACDB830CAB5C4",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/A2EE8FC5AB8DCE88BF0ACDB830CAB5C4",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 23,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Andy%20Weir&criteria=authors&language=English",
+                "text": "Andy Weir"
+            }
+        ],
+        "series": "",
+        "title": {
+            "href": "/fiction/A25396DE8272855C5E45F6DF1F822A2F",
+            "text": "The Martian"
+        },
+        "language": "English",
+        "file": "EPUB / 889 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/A25396DE8272855C5E45F6DF1F822A2F",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=A25396DE8272855C5E45F6DF1F822A2F",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/A25396DE8272855C5E45F6DF1F822A2F",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/A25396DE8272855C5E45F6DF1F822A2F",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 24,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Baker%2C%20Alan%20K&criteria=authors&language=English",
+                "text": "Baker, Alan K"
+            }
+        ],
+        "series": "Blackwood & Harrington 1",
+        "title": {
+            "href": "/fiction/7936B19043ED8ED6E2874D72B8EA9E01",
+            "text": "The Martian Ambassador"
+        },
+        "language": "English",
+        "file": "EPUB / 480 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/7936B19043ED8ED6E2874D72B8EA9E01",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=7936B19043ED8ED6E2874D72B8EA9E01",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/7936B19043ED8ED6E2874D72B8EA9E01",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/7936B19043ED8ED6E2874D72B8EA9E01",
+            "text": "[edit]"
+        }
+    },
+    {
+        "id": 25,
+        "author(s)": [
+            {
+                "href": "/fiction/?q=Baker%2C%20Alan%20K&criteria=authors&language=English",
+                "text": "Baker, Alan K"
+            }
+        ],
+        "series": "Blackwood & Harrington 1",
+        "title": {
+            "href": "/fiction/CA22A2B28696E147D6F5B82C6E3074BF",
+            "text": "The Martian Ambassador"
+        },
+        "language": "English",
+        "file": "EPUB / 381 Kb",
+        "mirrors": [
+            {
+                "href": "http://library.lol/fiction/CA22A2B28696E147D6F5B82C6E3074BF",
+                "text": "[1]"
+            },
+            {
+                "href": "https://cdn1.booksdl.org/ads.php?md5=CA22A2B28696E147D6F5B82C6E3074BF",
+                "text": "[2]"
+            },
+            {
+                "href": "https://3lib.net/md5/CA22A2B28696E147D6F5B82C6E3074BF",
+                "text": "[3]"
+            }
+        ],
+        "": {
+            "href": "https://library.bz/fiction/edit/CA22A2B28696E147D6F5B82C6E3074BF",
+            "text": "[edit]"
+        }
+    }
+]

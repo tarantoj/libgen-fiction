@@ -22,32 +22,59 @@ const buildUrl = (query: SearchQuery, mirror: string = libgenis) => {
     return url;
 };
 
-const parse = (responseText: string) => {
+type Link = { href: string; text: string };
+
+type Result = {
+    id: number;
+    "author(s)": Link[];
+    series: string;
+    title: Link;
+    language: string;
+    file: string;
+    mirrors: Link[];
+    /** Edit link */
+    "": Link;
+};
+
+const parse = (responseText: string): Result[] => {
     const $ = cheerio.load(responseText);
 
     const cols: string[] = [];
-    const results: object[] = [];
+    const results: Result[] = [];
 
-    $(".catalog>thead>tr>td").each(() => {
-        cols.push($(this).text().trim().toLowerCase());
+    $(".catalog>thead>tr>td").each(function (_i, el) {
+        cols.push($(el).text().trim().toLowerCase());
     });
 
     $(".catalog>tbody>tr").each(function (id) {
         const row = <any>{ id: id + 1 };
         $(this)
             .find("td")
-            .each((index) => {
-                row[cols[index]] = $(this).text();
+            .each(function (index) {
+                const list = $(this).find("li");
+                row[cols[index]] = list.length
+                    ? list
+                          .map(function () {
+                              const href = $(this).find("a").attr("href");
+                              if (href) return { href, text: $(this).text() };
+                              else return $(this).text();
+                          })
+                          .toArray()
+                    : $(this).find("a").attr("href")
+                    ? {
+                          href: $(this).find("a").attr("href"),
+                          text: $(this).text(),
+                      }
+                    : $(this).text();
             });
         results.push(row);
     });
-
-    console.log(cols, results);
+    return results;
 };
 
 const search = async (query: SearchQuery) => {
     const response = await axios.get(buildUrl(query).toString());
-    const results = parse(response.data);
+    return parse(response.data);
 };
 
 export { search };
