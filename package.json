@@ -1,0 +1,37 @@
+{
+    "name": "libgen-fiction",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/index.js",
+    "scripts": {
+        "start": "node dist/index.js",
+        "prestart": "tsc",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "prepare": "husky install"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@tsconfig/node16": "^1.0.2",
+        "@tsconfig/recommended": "^1.0.1",
+        "@types/node-fetch": "^3.0.3",
+        "@typescript-eslint/eslint-plugin": "^5.10.0",
+        "@typescript-eslint/parser": "^5.10.0",
+        "axios": "^0.25.0",
+        "eslint": "^8.7.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-import": "^2.25.4",
+        "husky": "^7.0.4",
+        "lint-staged": "^12.2.2",
+        "prettier": "2.5.1",
+        "ts-node": "^10.4.0",
+        "typescript": "^4.5.5"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.10"
+    },
+    "lint-staged": {
+        "**/*": "prettier --write --ignore-unknown"
+    }
+}
