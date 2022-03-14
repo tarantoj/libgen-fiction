@@ -73,7 +73,7 @@ const parse = (responseText: string): Result[] => {
 };
 
 const search = async (query: SearchQuery) => {
-    const response = await axios.get(buildUrl(query).toString());
+    const response = await axios.get<string>(buildUrl(query).toString());
     return parse(response.data);
 };
 
