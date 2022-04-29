@@ -7,7 +7,8 @@
         "start": "node dist/index.js",
         "prestart": "tsc",
         "test": "jest",
-        "prepare": "husky install"
+        "prepare": "husky install",
+        "build": "tsc"
     },
     "keywords": [],
     "author": "",
